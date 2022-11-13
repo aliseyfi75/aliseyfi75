@@ -10,6 +10,8 @@
 
 - 📄 Know about my experiences :[CV](https://github.com/aliseyfi75/aliseyfi75/blob/main/CV_of_Ali_Seyfi.pdf)
 
+- 👨‍💻 Latest Project : [COSCI-GAN](https://github.com/aliseyfi75/COSCI-GAN)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aliseyfi75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliseyfi75" height="30" width="40" /></a>
