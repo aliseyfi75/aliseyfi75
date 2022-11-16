@@ -1,24 +1,21 @@
-<h1 align="left">Hi 👋, I'm Ali Seyfi</h1>
-<h3 align="left">A Machine Learning Engineer at Oracle.</h3>
-
-Education:
-
-M.Sc. in CS @ UBC, Vancouver
-
-B.Sc. in EE @ Sharif University of Technology
-
-B.Sc. in CS @ Sharif University of Technology
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliseyfi75&label=Profile%20views&color=0e75b6&style=flat" alt="aliseyfi75" /> </p>
 
-
-
+<h1 align="left">Hi 👋, I'm Ali Seyfi</h1>
+<h3 align="left">A Machine Learning Engineer at Oracle.</h3>
 
 - 📫 How to reach me : **ali.seyfi.12@gmail.com**
 
 - 📄 Know about my experiences :[CV](https://github.com/aliseyfi75/aliseyfi75/blob/main/CV_of_Ali_Seyfi.pdf)
 
 - 👨‍💻 Latest Project : [COSCI-GAN](https://github.com/aliseyfi75/COSCI-GAN)
+
+Education:
+
+- M.Sc. in CS @ UBC, Vancouver
+
+- B.Sc. in EE @ Sharif University of Technology
+
+- B.Sc. in CS @ Sharif University of Technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
