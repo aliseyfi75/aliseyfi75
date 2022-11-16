@@ -1,6 +1,14 @@
 <h1 align="left">Hi 👋, I'm Ali Seyfi</h1>
 <h3 align="left">A Machine Learning Engineer at Oracle.</h3>
 
+Education:
+
+M.Sc. in CS @ UBC, Vancouver
+
+B.Sc. in EE @ Sharif University of Technology
+
+B.Sc. in CS @ Sharif University of Technology
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliseyfi75&label=Profile%20views&color=0e75b6&style=flat" alt="aliseyfi75" /> </p>
 
 
