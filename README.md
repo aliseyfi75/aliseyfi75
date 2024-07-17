@@ -5,7 +5,7 @@
 
 - 📫 How to reach me : **ali.seyfi.12@gmail.com**
 
-- 📄 Know about my experiences :[CV](https://github.com/aliseyfi75/aliseyfi75/blob/main/CV_of_Ali_Seyfi.pdf)
+- 📄 Know about my experiences :[CV](https://github.com/aliseyfi75/aliseyfi75/blob/main/Ali_Seyfi_Resume.pdf)
 
 - 👨‍💻 Latest Project : [COSCI-GAN](https://github.com/aliseyfi75/COSCI-GAN)
 
